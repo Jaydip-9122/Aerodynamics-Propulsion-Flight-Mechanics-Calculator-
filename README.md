@@ -44,10 +44,7 @@ pip install numpy matplotlib
 ## How to Run
 
 1. **Download or clone this repository**  
-```bash
-git clone <your-repo-url>
-cd <repo-directory>
-```
+
 
 2. **Run the toolkit**  
 ```bash
@@ -102,24 +99,5 @@ b. Back to Main Menu
 b. Back to Main Menu
 ```
 
----
-
-## Example (Direct Function Call in Python)
-
-You can also call functions directly:
-```python
-from Aerospace_Engineering_Toolkit import isentropic_solver
-isentropic_solver()  # interactive calculation
-```
-
-Similarly, functions like `jet_engine_calculator()`, `aerodynamic_parameters()`, etc., can be called directly.
-
----
-
-## Notes
-
-- Designed for quick **educational & conceptual** calculations.
-- Uses idealized formulas, results may not match real-world experimental data.
-- Some modules generate plots (e.g., Airfoil Generator, Aero Coefficient Plotter) using **matplotlib**.
 
 
