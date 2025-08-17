@@ -1,4 +1,4 @@
-# Aerospace Engineering Toolkit
+# Aerodynamics-Propulsion-Flight Mechanics Calculator 
 
 A Python-based interactive toolkit for aerospace engineering calculations covering **propulsion**, **aerodynamics**, and **flight mechanics**.  
 It provides a **menu-driven CLI interface** for quick engineering calculations and visualization.
